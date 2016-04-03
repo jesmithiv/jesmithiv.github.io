@@ -1,0 +1,21 @@
+---
+layout: post
+title: Has the iPad made meetings better or worse?
+redirect_from: /home/2011/01/27/meetings-and-the-ipad/index.html
+---
+<p>Ben Brooks and Randy Murray had an interesting <a href="http://brooksreview.net/2011/01/murray-meetings/">back</a> and <a href="http://whowritesforyou.com/2011/01/27/in-meetings-pen-paper-not-glass-and-fingers/">forth</a> on the usefulness of the iPad in meetings. Randy isn't fully sold on the iPad's effectiveness as paper notebook replacement; Ben is all iPad.
+I agree with Randy that technology should not get in the way of getting ideas down:</p>
+<blockquote><p>. . . most important to me is the pace of the meeting. When ideas are flying and questions are being asked, I don’t like to have pauses, even short ones, interrupting the flow. Ben may be able to do that by touch-typing on an iPad but I cannot. I’m betting that most can’t. I’ve even experimented with using the iPad with a stylus to make notes, but I’m not satisfied with that, either.</p></blockquote>
+<p>I also share Ben's disdain for rework and his love for -ables:</p>
+<blockquote><p>I am not anti-pen and paper in meetings. I am anti-having to transcribe notes from paper to digital. Scanning is not a solution to that problem — all notes should be searchable and archivable and backed-up-able.</p></blockquote>
+<h2>Meetings, the iPad, and me</h2>
+<p>For me, the iPad is super useful in meetings where I'm more of an observer than an active participant. For example, if I'm attending some session at a professional conference, and I want to follow a PDF handout, make highlights, and take light notes, the iPad is a killer replacement for paper. At least, that was <a href="http://www.practicallyefficient.com/2010/10/22/working-traveling-in-the-clouds/">my experience</a> a few months ago.</p>
+<p>I've also had a lot of success using the iPad on conference calls to make notes. <a href="http://www.practicallyefficient.com/2010/09/01/mind-mapping-on-the-ipad-with-ithoughtshd/">iThoughtsHD</a>—a mind mapping app—is my preferred way of taking "free form" notes on the iPad. Easy in, easy out. More generally, mind maps (even paper ones), handle the nonlinearity of human consciousness better than any other note-taking medium I've discovered.</p>
+<p><em>But</em>, I still don't use the iPad universally to replace notepads in meetings. There are just times when the low-friction nature of pen and paper works best.</p>
+<p>Whatever <em>you </em>do, don't let tool come before the note. Even if it means having to retype something later, it's better to have <em>something </em>to retype than fragmented memories in your head.</p>
+<h2>Looking ahead, wishing and stuff</h2>
+<p><a href="/img/apple-monolith.png"><img class="alignright size-thumbnail wp-image-606" title="apple-monolith" src="/img/apple-monolith-150x150.png" alt="" width="150" height="150" /></a>I think meeting technology remains very primitive. It's actually somewhat amusing that today, amidst all the amazing technology in the common workplace, we still gather around a table, bark at each other, make notes on physical objects not that far removed from stone tablets, then scamper back to our caves hoping we don't faceplant on any monoliths along the way.</p>
+<p>There is a massive disconnect between the technology used by most people to record thoughts (pen and paper) and the technology used by most people to turn thoughts into value (computers). I would bet that 80 percent or more of individually taken notes are obliterated in the highly viscous flow between paper and hard drive.</p>
+<p>What I would love to see is some sort of application/system that pools the notes that people take in meetings into a reusable, editable, and searchable format. (Told you I liked -ables.) In my mind, it would look like an aggregated mind map that harnessed written text, speech, and drawings. Maybe it could even use some semantic tools to identify themes and actionable items.</p>
+<p>Most importantly, make it good enough so that it sees adoption in big companies, not just small tech companies and web startups.</p>
+<p>Maybe if technology could help us glean more from meetings, they wouldn't suck so much for people who favor production over talking about production.</p>

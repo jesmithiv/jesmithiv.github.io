@@ -1,1 +1,46 @@
-Hello World
+---
+layout: default
+---
+
+<div class="home">
+
+  <!-- <h1 class="page-heading">Posts</h1> -->
+
+  <ul class="post-list">
+    <!-- This loops through the paginated posts -->
+    {% for post in paginator.posts %}
+      <h1 class="post-title">
+        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+      </h1>
+
+      <p class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</p>
+
+      <div class="post-content">
+        {{ post.content }}
+      </div>
+    {% endfor %}
+  </ul>
+
+  <!-- Pagination links -->
+  <div class="pagination">
+    {% if paginator.previous_page %}
+      <a href="{{ paginator.previous_page_path }}" class="previous">Newer</a>
+    {% else %}
+      <span class="previous">Newer</span>
+    {% endif %}
+    <!-- <span class="page_number ">Page: {{ paginator.page }} of {{ paginator.total_pages }}</span> -->
+     | 
+    {% if paginator.next_page %}
+      <a href="{{ paginator.next_page_path }}" class="next">Older</a>
+    {% else %}
+      <span class="next">Older</span>
+    {% endif %}
+  </div>
+
+  
+
+</div>
+
+
+
+

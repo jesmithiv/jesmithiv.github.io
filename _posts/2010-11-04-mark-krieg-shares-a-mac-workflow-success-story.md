@@ -1,0 +1,16 @@
+---
+layout: post
+title: Mark Krieg shares a Mac workflow success story
+redirect_from: /home/2010/11/04/mark-krieg-shares-a-mac-workflow-success-story/index.html
+---
+<p>Meeting interesting people through email is probably the most pleasant side effect of opening the doors of my brain to the internet here on PE. Some folks just blow my socks off at what they’ve accomplished in their own lives and workflows.
+Meet <a href="http://markkrieg.com/">Mark Krieg</a>.  His story strikes me in two main ways. Not only does he know a ton about Mac workflows, he’s managed to boost efficiency in the lives of others as well.</p>
+<p>With Mark’s permission, I’m sharing some of what he shared with me.</p>
+<blockquote><p>I’ve been in the computer field for 25 years. For the past 10 years I’ve been the I.T. Director for our church. We just spent the past year (or more) migrating everything from Windows to Mac &amp; Unix. It was quite an undertaking, not only that switch but our infrastructure moved from small business to enterprise. We’re just in the process of having the dust settle.</p>
+<p>Already it’s a dream-come-true from an administrative standpoint! The users are loving it, too! We have 3 Apple Xserves, a few other Unix servers, 12TB Promise raid60 drive array and a 16TB Drobo Pro. We have around 40 iMac 24”, 15 MacBookPros, 3 Mac Pros, and several Mac Minis. All units have a minimum of 4GB RAM. The only place we run Windows is in VMware Fusion where it’s locked out from the Internet .</p>
+<p>The switch to Mac was brought about by a presentation we made to the elders about two years ago. By this time I had a full-time network tech hired because the task had become overwhelming. I can “conservatively” say that we’ve now reduced our workload by about 75% by moving away from Windows.</p></blockquote>
+<p>Nice.</p>
+<blockquote><p>Now we have time to train, build websites, and accomplish other projects rather than just re-image Windows PCs, check virus scanners, run parasite cleaners, etc. What we did for the presentation… we purchased two iMacs (still the white Intel design back then) and developed a stunning Keynote presentation. We placed an iMac on the board-room table at one end (no keyboard or mouse). I sat at the other end with a wireless keyboard and remote. Went through the presentation, slick as all get-out… and at the opportune time, in my pocket, I pressed a call on my cell phone to my tech.</p>
+<p>He then makes an iChat call to us. We begin a conversation… and then I expanded it to full screen video. They were impressed. But the best part was… I then pressed F9 for Expose, and behind the presentation and iChat, there were 35 applications running that entire time. Unix scripts pouring through terminal windows, a movie running from the internal DVD player, other media playing from the hard drive, all sorts of apps that were giving off eye-candy feedback. It blew their minds. The presentation was smooth as silk, and yet that iMac was taxed about as heavy as it could go. I told them to try that on their Windows PC! They were stunned. And I was given permission to switch!</p></blockquote>
+<p>Thanks for sharing that, Mark.</p>
+<p>If <em>you</em> have a workflow story you’d like to share, let me know.</p>

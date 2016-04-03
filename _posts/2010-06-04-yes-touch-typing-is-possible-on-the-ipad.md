@@ -1,0 +1,38 @@
+---
+layout: post
+title: Yes, touch typing is possible on the iPad
+redirect_from: /home/2010/06/04/yes-touch-typing-is-possible-on-the-ipad/index.html
+---
+<p>When I ordered my iPad, I really thought it would primarily be a “consumption” device. In other words, I thought I would use it to primarily consume media, not create it. However, the more I use the iPad, the more I have the desire to use it for content creation, specifically writing. It just feels like it has potential beyond consumption. And it’s always-on, highly portable nature makes it beg to be a “thought pad.”
+The iPad can’t be a viable writing tool unless you can easily type on it. I’m a touch typist on a real keyboard. I’ve always been able to type while looking at the screen—or looking at a page. I don’t look at the keyboard when I type.</p>
+<p>I wanted this ability on the iPad, but I’ve been resisting the urge to buy a bluetooth keyboard to go with it. I really wanted to see if I could integrate the iPad into my workflow without “peripherals.” I wanted to see if touch computing could walk without a cane.</p>
+<p><!--more-->At first, I didn’t think touch typing on the iPad was possible.  After all, touch typing relies on tactile signals that tell our brain where our fingers are as they navigate the three-dimensional terrain of a traditional keyboard.</p>
+<p>The surface of the iPad’s keyboard is flat.  It’s a screen after all.  There is obviously no way to know where your fingers are using your sense of touch. But the good news is that the iPad keyboard is much, much closer to a full computer keyboard than a mobile phone keyboard. And your muscle memory may be better than you give it credit for.</p>
+<p>Moreover, Apple has has really figured out this multi-touch thing. The iPad is so good at detecting finger contact, it’s almost magical. You can tap rapidly across the keyboard, and <em>every</em> tap registers. Nothing is missed. Having used other touch devices, like Android phones, that sometimes miss a letter if two are pressed nearly at the same time, I can really appreciate what Apple has accomplished.</p>
+<p>A few weeks ago, I committed to learning to touch type on the iPad.  At first, it felt really clumsy, and there was really no speed improvement over using two fingers to “hunt and peck” like I do on mobile phone.</p>
+<p>But it started getting better with some practice and patience. And the more I tried it, the more I became convinced that it was not only possible but very doable. Now, I touch type on my iPad with regularity, and I much prefer touch typing over using two fingers. In fact, I wrote much of this post on my iPad.</p>
+<p>What follows are eight tips and suggestions I’ve come up with to maximize efficiency while typing on the iPad’s virtual keyboard.</p>
+<h2 id="stayhorizontal">1. Stay horizontal</h2>
+<p>(The iPad, that is.)  Touch typing while holding the iPad vertical isn’t worth it.  The keyboard is too small.  But while horizontal, the keyboard size is not that much smaller than a real keyboard. This gives your fingers plenty of room to do their thing.</p>
+<h2 id="goodpostureandscreenanglearecritical">2. Good posture and screen angle are critical</h2>
+<p>As with typing on a real keyboard, it helps to sit up straight and get your arms at 90-degree angles. Touch typing on the iPad while laying in bed, or with the screen really close to your face is hard. Ideally, you’ll want to place the iPad in your lap or on a table and sit up straight. It also helps to use the Apple case or something else to position the iPad at a slight angle so that the screen is tilted toward you and not laying completely flat.</p>
+<h2 id="handpositionisimportant">3. Hand position is important</h2>
+<p>Fortunately, not all sense of touch is lost with the iPad. I find that it’s helpful to keep the bottom corners of the iPad gently at the base of my palms. This helps ensure that my index fingers are always in the neighborhood of the F and J keys (essential for effective touch typing).</p>
+<h2 id="doubletaptomakefastcorrections">4. Double tap to make fast corrections</h2>
+<p>Double tapping is the fastest, most accurate way to highlight a word and make corrections. Once highlighted, a smart little contextual menu will hover hover the word. If you tap Replace, you’re offered several suggestions. Even if the right word isn’t there, you can simply begin typing a new word, and it will overwrite the highlighted word. If you need to replace a word for any reason, double tap it; don’t use backspace.</p>
+<h2 id="trustyourfingers">5. Trust your fingers</h2>
+<p>This is more abstract, but I find that the more you relax and just assume that your fingers will find the right landing spot on the screen, the more successful you’ll be. This also gets easier with practice.</p>
+<h2 id="thatdamnits">6. That damn “it’s”</h2>
+<p>By default, when you type “its” the iPad converts it to “it’s.”  I suspect that the contraction of “it is” is more common than the possessive “its.”  But “its” is common too, so you’ll often be correcting the iPad.  Instead of using backspace, a better way is to double tap the word and select Replace, as described above. Then, choose “its.”</p>
+<p>I can’t stress enough that double tapping is your friend.</p>
+<h2 id="useshortcuts">7. Use shortcuts</h2>
+<p>Apple put some shortcuts into the keyboard interface that are very useful:</p>
+<p>To type an apostrophe without tapping the shift key, simply hold down the comma key for a second or two. An apostrophe will pop up, and when you release, it will insert it where your cursor is.  This is <em>much</em> faster than constantly tapping shift to type an apostrophe.</p>
+<p>If you only need to type a single number, you can tap and hold the .?123 key at the bottom of the main keyboard, then drag your finger to the number key you desire. When you release that key, the number will be inserted, and the keyboard layout with instantly switch back to the main ABC layout. This eliminates the need to tap the ABC key again. The tap and drag trick always works with any other key in the .?123 layout.</p>
+<h2>8. Edit errors in batches</h2>
+<p>As you type on the iPad you will make mistakes. This will happen no matter how good you get. I recommend editing your mistakes in batches, not one-by-one. If you mistype a word and a red squiggly line appears under it, keep going.  Every two paragraphs or so, you can go back and fix these mistakes by double tapping each word and either using the Replace feature or simply retyping the word.</p>
+<p>Editing in batches is far more efficient than stopping each time you make a mistake because you'll constantly interrupt your thought process. That said, it may be a good idea to immediately correct mistakes that result in real words (i.e. that aren't underlined and spelling errors) so that you don't miss them later.</p>
+<h2 id="practicemakesclosertoperfect">Practice makes (closer to) perfect</h2>
+<p>It takes time to get better at touch typing on a virtual screen, but it is totally doable.  I find that I can easily touch type a 2-3 paragraph email in roughly the same amount of time I can on a full keyboard.</p>
+<p>Touch typing on the iPad isn’t as efficient as typing on a real keyboard, but by getting good at touch typing on the iPad, you can take another step in freeing yourself from your desktop or laptop when you’re on-the-go, or anytime you want to take a break from having a full blown computer in front of your face.</p>
+<p>Most importantly, you’ll avoid forming a habit of carrying around a second object with your iPad.</p>

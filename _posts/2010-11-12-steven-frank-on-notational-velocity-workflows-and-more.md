@@ -1,0 +1,35 @@
+---
+layout: post
+title: Steven Frank on Notational Velocity, workflows, and more
+redirect_from: /home/2010/11/12/steven-frank-on-notational-velocity-workflows-and-more/index.html
+---
+<p style="text-align: left;"><a href="/img/avatar.png"><img class="size-full wp-image-2099 alignright" title="avatar" src="/img/avatar.png" alt="" width="205" height="205" /></a>Do you use <a href="http://panic.com/transmit/">Transmit</a> in your FTP workflows?  (If not, you should.) How about Notational Velocity for your Markdown writing? Yes? Well then I’m sure you share in my debt of gratitude to <strong>Steven Frank</strong>, co-founder of Panic and the first to add Markdown support to Notational Velocity.</p>
+<p style="text-align: left;">And as if changing the world of Mac software for the better wasn’t enough, Steven (Twitter: <a href="http://twitter.com/stevenf/">@stevenf</a>) keeps his <a href="http://stevenf.tumblr.com/">personal blog</a> chock full of useful Mac tips. You’ll even find unique photos of his impressive collection of computer memorabilia there. I don’t think I’ve ever seen such a cool mix of new and old Mac things in one place.</p>
+<p>Recently, Steven let me pick his brain on several topics. Here’s what he had to say…</p>
+<h2 id="howlonghaveyoubeenamacdeveloper">How long have you been a Mac developer?</h2>
+<p>Cabel and I co-founded <a href="http://panic.com/">Panic</a> in late 1996 / early 1997, and shipped Transmit 1.0 (then “Transit”) in September 1998.  So about 12 years or so.</p>
+<h2 id="whatinspiredyoutocreateyourforkedversionofnotationalvelocity">What inspired you to create your forked version of Notational Velocity?</h2>
+<p>I’m a big fan of plaintext and <a href="http://daringfireball.net/projects/markdown/">Markdown</a>.  It just seemed like a natural and obvious addition to Notational Velocity, and I knew it wouldn’t take long to slap together.  A personal itch, like most things.</p>
+<h2 id="howdoyouusenotationalvelocitypersonally">How do you use Notational Velocity personally?</h2>
+<p>Mainly as a desktop client for <a href="http://Simplenoteapp.com/">Simplenote</a>.  I don’t do anything in Notational Velocity that is beyond Simplenote’s capabilities.  Its true value to me is as an automatic, over-the-air synced plaintext notepad.</p>
+<p>My NV content is mostly reference.  If I’m spending hours trying to figure something out, I fire up a new note with what I’ve tried so far, what happened, and what finally worked.  I sleep better knowing that I can look it up next time I hit the problem.  I also use it to capture things I find interesting as I do my online reading.  Also lists of all kinds.  Notes on people and things that I’ve found interesting for some reason.</p>
+<p>I don’t really use it for freeform writing.  Just capture, collection, logging, and documentation.</p>
+<h2 id="whattypeofwritingdoyoudo">What type of writing do you do?</h2>
+<p>My personal blog has both personal anecdotes and technical tips and tricks.  Most of my work-related writing is email, but I’ve also written the built-in help books for all of our applications, and am currently working on a rewrite of the reference material in <a href="http://panic.com/coda/">Coda</a>, so there’s unofficially a bit of technical writer in my job description.</p>
+<h2 id="doyouplantodevelopnotationalvelocityfurtherinthefuture">Do you plan to develop Notational Velocity further in the future?</h2>
+<p>I’ve found it hard to stay on top of changes in the core NV code due to my complete non-understanding of Git, the source control system that NV is stored in.  Also, some other folks seem to have picked up the torch and run with it, so I will probably mostly watch from the sidelines and see if any more enhancement ideas pop out at me.  It’s all very selfish though – due to limited time availability, it would have to be a feature I personally really needed.</p>
+<p>I’m also keeping a very close eye on an iOS app called <a href="http://itunes.apple.com/us/app/trunk-notes/id302880785?mt=8">Trunk Notes</a>, which is a Markdown based wiki.  Lack of sync has been the main thing keeping me from jumping ship away from Simplenote/NV.  But I hear that a new version of Trunk is in app store review that uses <a href="https://www.dropbox.com">Dropbox</a> for storage.  That seems to me like it would be absolutely killer.  I’ve been pining for months for any syncing, plaintext notepad that would let me add links between notes.  There are surprisingly few apps in this space.</p>
+<h2 id="howdoyouusemobiledevicese.g.iphoneinyourworkflows">How do you use mobile devices (e.g. iPhone) in your workflows?</h2>
+<p>It’s pretty integral now.  I won’t use desktop knowledge management apps any more unless they sync automatically over-the-air to my iPhone.  Unfortunately that means I don’t get to use a lot of beautiful apps, like Things.  But life is too short for manual syncing.</p>
+<p>That means IMAP for email, MobileMe for contacts, calendar, and bookmarks. Simplenote for notes and task lists.</p>
+<h2 id="howhastheipadchangeyourworkflows">How has the iPad change your workflows?</h2>
+<p>It kind of has me flummoxed.  I love my iPad, love using it.  I also just got an 11” MacBook Air.  And whenever I’m headed out the door I look at them both and raise my hands skyward and shout “which one? WHICH ONE?!”  Each is strong in the exact areas the other is weak.</p>
+<p>But more often than not, I leave them both at home.  My iPhone is the true go-everywhere device.</p>
+<h2 id="doyouuseacontentmanagementsystemonyourmacifsohowdoyouprimarilyuseit">Do you use a content management system on your Mac?  If so, how do you primarily use it?</h2>
+<p>Not really.  Just the Finder, and built-to-purpose apps like iPhoto when it makes sense.  I am kind of a stickler about third-party software and run as little of it as I possibly can get away with.</p>
+<h2 id="doyouuseanyproductivitysoftwaretostayorganizedwithtasksprojectsetc.">Do you use any productivity software to stay organized with tasks, projects, etc.?</h2>
+<p>I’ve been through a million.  They are always either too complex or (ironically) missing that one feature that is critical for me.  So for now, it’s back to a plaintext note called “TODO” in my NV/Simplenote.</p>
+<h2 id="basedonpostsatyourpersonalblogyouseemtobeanavidcollectorofoldercomputerhardware.doyouhaveafavoritepiecehowdoyoustoreallthatstuff">Based on posts at your personal blog, you seem to be an avid collector of older computer hardware. Do you have a favorite piece?  How do you store all that stuff?</h2>
+<p>We have a big house, and I was allowed to take over half of a guest bedroom.  :)</p>
+<p>I’ve only recently started doing the collecting thing, and I’m trying to limit myself to things that are personally meaningful to me (so Atari, Amiga, Apple ][, and Newton, primarily).  I really don’t want to go too overboard.  In addition to the fun nostalgia aspect, I also find it grounding to keep a historical “how did we get here” perspective on a high-speed industry that really doesn’t have much of a long-term memory.</p>
+<p><em>Thanks, Steven!</em></p>
