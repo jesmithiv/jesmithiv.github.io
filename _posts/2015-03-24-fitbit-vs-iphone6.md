@@ -63,7 +63,7 @@ redirect_from: /home/fitbit-vs-iphone6/index.html
 
 <p>I've made this walk countless times, but until I actually graphed the elevation profile, I never realized how U-shaped it was. </p>
   
-       [caption id="" align="alignnone" width="1886.0"]<img src="/img/2015-03-23-mapmyrun-pe.png" alt="Walk 1 Elevation Profile"/> Walk 1 Elevation Profile[/caption] 
+[caption id="" align="alignnone" width="1886.0"]<img src="/img/2015-03-23-mapmyrun-pe.png" alt="Walk 1 Elevation Profile"/> Walk 1 Elevation Profile[/caption] 
   
 
 <p>As you can see, the iPhone 6 counted 70 more steps than my Fitbit and 4 fewer floors:</p><table>
@@ -120,7 +120,7 @@ redirect_from: /home/fitbit-vs-iphone6/index.html
 
 <p>The second walk is longer than the first, but isn't nearly as scenic. It does, however, offer an interesting elevation contrast with the first walk in that it follows a more gradual decline along a road that leads to downtown Greenville. </p>
   
-       [caption id="" align="alignnone" width="1884.0"]<img src="/img/img.png" alt="Walk 2 Elevation Profile"/> Walk 2 Elevation Profile[/caption] 
+[caption id="" align="alignnone" width="1884.0"]<img src="/img/img.png" alt="Walk 2 Elevation Profile"/> Walk 2 Elevation Profile[/caption] 
   
 
 <table>
