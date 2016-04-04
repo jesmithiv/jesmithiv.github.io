@@ -21,7 +21,7 @@ All of these things have been said before about Squarespace, and I can’t think
 >
 > - The online Markdown editor Squarespace provides is slow and buggy. For longer pieces of text, the cursor is often displayed at the wrong location, so that it becomes difficult to edit the text at all.
 
-### Life and content go on... to Jekyll
+## Life and content go on... to Jekyll ##
 
 It’s fitting to quote Claus above because he was writing about why he moved from Squarespace to [Jekyll](https://jekyllrb.com)—footsteps that I’ve now followed.
 
@@ -48,7 +48,7 @@ But for me, the value of the move is much longer-term in nature.
 - I’m in the process of learning some cool tricks in iOS that I plan to use for iOS-based publishing.
 - I no longer rely on first-party apps for publishing. 
 
-### Overview of how I moved
+## Overview of how I moved 
 
 There’s no such thing as a boilerplate list of steps for moving from Thing A to Thing B on the internet. To each his own sub-steps. And it’s in those sub-steps where both dragons and fun be alike. But for those that care, here are the primary steps I took over the course of several nights and weekends:
 
@@ -68,7 +68,7 @@ Other good resources:
 You may be wondering about images. Fortunately I have local copies of nearly every image I've ever posted, so I didn't need to pull those off Squarespace. 
 
 
-### Some thank you’s framed in bigger pictures
+## Some thank you’s framed in bigger pictures 
 
 Even though I didn’t solicit much direct help in this move, I’m so grateful for the inspiration I’ve gotten from [Gabe Weatherhead](http://www.macdrifter.com), [Ryan Irelan](http://ryanirelan.com), and [Dr. Drang](http://leancrew.com/all-this/). They’re all much handier than I am with static blogging and web things in general, but I’ve been influenced heavily by what they’ve done. In particular, I’m convinced I would not have the basic Python skills I have now if it weren’t for all the exposure I’ve gotten to it through Dr. Drang’s posts. 
 
