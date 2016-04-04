@@ -12,9 +12,13 @@ But as it stands now, Squarespace is not a place for lovers of Markdown, and tha
 All of these things have been said before about Squarespace, and I can’t think of anything to add to [Claus Wilke’s take on it](http://serialmentor.com/blog/2015/8/6/goodbye-squarespace/):
 
 > While Squarespace posts can in principle be written in Markdown, Squarespace’s Markdown capabilities are limited and buggy. In particular:
+>
 > - Code blocks are buggy. Specifically, Squarespace doesn’t properly escape special characters in code blocks. This can make embedding code into Markdown posts a big headache.
+>
 > - Images cannot be inserted directly from the Markdown.
+>
 > - To insert images, one has to break the Markdown into two parts and insert an image block in between. As one does so, Squarespace rewrites the Markdown and turns all inline links into reference-style links. While this doesn’t alter the page output in any way, I prefer to use software that doesn’t randomly rewrite my source code.
+>
 > - The online Markdown editor Squarespace provides is slow and buggy. For longer pieces of text, the cursor is often displayed at the wrong location, so that it becomes difficult to edit the text at all.
 
 ### Life and content go on... to Jekyll
@@ -76,3 +80,4 @@ If static sites increase the longevity of indie web writing, that’s just one m
 
 
  
+
