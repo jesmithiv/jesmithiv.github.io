@@ -40,7 +40,7 @@ Back in January, I randomly [tweeted](https://twitter.com/eddie_smith/status/693
 
 > $5/month is a reasonable charge for your service. Problem: your customers also need 100 other non-competitive subscription services.
 
-I think this resonated with a lot of people who hopefully got what I was trying to say, which is that the software economy is out of sync with consumers’ disposable income. *This is not the fault of developers or people who buy software*. We’re just living in a REALLY different world than I think humanity as ever experienced, and we won’t even fully understand how fundamentally different the world is today than it was even twenty years ago for probably another hundred years. In other words, we’ll probably never get it. We’re just living it.
+I think this resonated with a lot of people who hopefully got what I was trying to say, which is that the software economy is out of sync with consumers’ disposable income. *This is not the fault of developers or people who buy software*. We’re just living in a REALLY different world than I think humanity has ever experienced, and we won’t even fully understand how fundamentally different the world is today than it was even twenty years ago for probably another hundred years. In other words, we’ll probably never get it. We’re just living it.
 
 Fact: I can’t work without apps like TextExpander, and from a purely rational economic perspective, there’s no reason not to pay Smile $50 a year. It hurts me more *not* to continue using TextExpander.
 
