@@ -30,7 +30,7 @@ Is knowledge a service? Most of the time—probably. But certainly not always.
 
 If we think of software as a knowledge service, then charging an ongoing fee seems to be a market consistent approach. In other words, it boils software down to its elements (knowledge), and we can observe how knowledge is priced and bought in other areas of the economy. For example, consultant fees, retainers, etc. No one would expect to pay a lawyer a one-time fee for unlimited support until the lawyer died or became replaced by a newer, faster lawyer with a flatter and less skeuomorphic face. 
 
-But that’s what we expect of software developers, right? Pay them the cost of a counter service meal *once* for the right to email them and require support *indefinitely*? At best, this kind of business model scales to masochism. At worst, it drives the quality of software into either abandonment or acquisition by tech giants that shit it out in unrecognizable pieces or privacy violations. 
+But that’s what we expect of software developers, right? Pay them the cost of a counter service meal *once* for the right to email them and require support *indefinitely*? At best, this kind of business model scales to masochism. At worst, it drives software into either abandonment or acquisition by tech giants that shit it out in unrecognizable pieces and privacy violations. 
 
 
 
