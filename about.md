@@ -10,15 +10,13 @@ This site is the main place I write, and I do it for free because most of the va
 
 I'm a credentialed actuary and director at [The Infinite Actuary][tia], a company that provides educational products for actuaries. I've volunteered with the Society of Actuaries (SOA) and previously chaired the Technology Section of the SOA. I live in Greenville, South Carolina with my wife and two kids.
 
-The best way to follow Practically Efficient is by subscribing to the [RSS feed][rss] or following [@PractEff][t] on Twitter. The best way to contact me is through my personal Twitter, [@eddie_smith][t2], or [email][e].
+The best way to follow Practically Efficient is by subscribing to the [RSS feed][rss] or following [@PractEff][t] on Twitter. The best way to contact me is through my personal Twitter, [@eddie_smith][t2], or <a href="j.eddie.smith.iv+pe@gmail.com">email</a>.
 
 [rss]: http://www.practicallyefficient.com/feed.xml
 
 [t]: https://twitter.com/PractEff
 
 [t2]: https://twitter.com/PractEff
-
-[e]: mailto:"j.eddie.smith.iv+pe@gmail.com"
 
 [md]: http://www.practicallyefficient.com/markdown
 
