@@ -18,7 +18,7 @@ The best way to follow Practically Efficient is by subscribing to the [RSS feed]
 
 [t2]: https://twitter.com/PractEff
 
-[e]: mailto:j.eddie.smith.iv+pe@gmail.com
+[e]: mailto:"j.eddie.smith.iv+pe@gmail.com"
 
 [md]: http://www.practicallyefficient.com/markdown
 
