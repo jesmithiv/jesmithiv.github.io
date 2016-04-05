@@ -247,10 +247,12 @@
 }
 
 .post-content {
-    margin-bottom: $spacing-unit * 2;
+    margin-bottom: $spacing-unit * 3;
 
     h2 {
         font-size: 32px;
+        padding-top: $spacing-unit / 2;
+        line-height: 1;
 
         @include media-query($on-laptop) {
             font-size: 28px;
