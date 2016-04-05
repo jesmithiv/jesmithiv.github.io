@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Practically Efficient
+title: About
 permalink: /about/
 ---
 
