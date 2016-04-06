@@ -3,7 +3,7 @@ layout: post
 title: Software as a perception 
 ---
 
-Like so many other apps-turned-services in the last year, Smile is moving [TextExpander](https://textexpander.com) to a subscription model that will cost $4.95 per month, or a little under $50 per year if paid annually. 
+Like so many other apps-turned-services in the last year, Smile is moving [TextExpander](https://textexpander.com) to a subscription model that will cost $4.95 per month, or $45 per year if paid annually. 
 
 [Macstories](https://www.macstories.net/reviews/textexpander-updates-focus-on-new-service/):
 
