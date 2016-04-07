@@ -18,7 +18,7 @@ Maybe they’re sick to their stomach thinking of what has happened to developer
 - Letting the app die
 - Letting the app languish
 - Putting ads in their app
-- Selling their customer’s information to marketers
+- Selling their customers’ information to marketers
 - Selling the whole business to a giant tech company
 
 Maybe they’re dreading the one-star shame that they know will come with *any* of those decisions.
