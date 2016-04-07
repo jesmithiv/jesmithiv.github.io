@@ -3,7 +3,9 @@ layout: post
 title: A contrarian theory about software developers
 ---
 
-I don’t know why I wrote this post, but after seeing all the vitriol spewed at Smile for changing their business model, I started having these crazy thoughts in my head. This is all stupid, but for what it’s worth…
+I don’t know why I wrote this post, but after seeing all the vitriol spewed at Smile for [changing][TE] their business model, I started having these crazy thoughts in my head. This is all stupid, but for what it’s worth…
+
+[TE]: https://smilesoftware.com/blog/entry/textexpander-release-follow-up
 
 What if the typical developer isn’t a rich Wall Streeter making a money grab? What if developers are girlfriends, boyfriends, or partners? Maybe moms and dads? Maybe developers have mortgages, rents, car payments, and health insurance. 
 
