@@ -12,7 +12,7 @@ Maybe I’m a Watch apologist, but Watch’s failures have not made me wear the 
 
 Considering the frequency with which I’ve used the Watch every day for nearly a year now, the graph of my investment in the Watch per unit of utility is an asymptote teasing zero. For me, all of the following have been *enough* in Watch version 1. 
 
-- **The time on my wrist.** I foolishly let the iPhone replace previous wrist watches. The Watched fixed that.
+- **The time on my wrist.** I foolishly let the iPhone replace previous wrist watches. The Watch fixed that.
 - **Weather.** The Apple weather complication is always current, forecasts load quickly, and I find the clockface-like weather forecast superior to virtually every iPhone and desktop weather app UI.
 - **Next meeting complication.** It’s useful.
 - **Activity.** I move more when I know how much I haven’t been moving.
