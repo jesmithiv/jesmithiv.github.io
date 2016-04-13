@@ -16,7 +16,7 @@ The more difficult decision process now is:
 
 Before data privacy became such a thing, Decision No. 2 was almost always naturally a yes if Decision No. 1 was a yes. It’s not so simple now.
 
-An even better case study than TextExpander is [YNAB](http://www.youneedabudget.com), which shifted from a pay-per-upgrade / desktop app / Dropbox sync model to a subscription / web app model earlier this year. While I’m using the new YNAB and  still feel that it is lightyears ahead of any other personal finance software because of it’s budgeting philosophies, actually *recommending* the new version is a far more complex decision than it was when user data wasn’t stored on YNAB-controlled servers and bank data didn’t sync “through the cloud.”
+An even better case study than TextExpander is [YNAB](http://www.youneedabudget.com), which shifted from a pay-per-upgrade / desktop app / Dropbox sync model to a subscription / web app model earlier this year. While I’m using the new YNAB and  still feel that it is lightyears ahead of any other personal finance software because of its budgeting philosophies, actually *recommending* the new version is a far more complex decision than it was when user data wasn’t stored on YNAB-controlled servers and bank data didn’t sync “through the cloud.”
 
 Now, the recommendation decision is a function not only of the benefits of the software but also the risk management implications on the data side. The reason that I am ultimately comfortable with the tradeoff has less to do with my perceived security around the YNAB servers and more to do with:
 
