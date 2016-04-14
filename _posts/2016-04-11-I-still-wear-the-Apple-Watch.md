@@ -8,7 +8,7 @@ In case you haven’t heard, the Apple Watch has now been declared a failure bec
 1. It has failed humanity: It has not cured cancer, curbed the incidence of global terrorism, and it has neither confirmed or denied the Big Bang theory
 2. It has failed developers: No one can program around the same splash screen: a 60-second spinner
 
-Maybe I’m a Watch apologist, but Watch’s failures have not made me wear the Watch any less or feel that the roughly $400 I spent on the Watch was wasted.
+Maybe I’m a Watch apologist, but the Watch’s failures have not made me wear the Watch any less or feel that the roughly $400 I spent on the Watch was wasted.
 
 Considering the frequency with which I’ve used the Watch every day for nearly a year now, the graph of my investment in the Watch per unit of utility is an asymptote teasing zero. For me, all of the following have been *enough* in Watch version 1. 
 
