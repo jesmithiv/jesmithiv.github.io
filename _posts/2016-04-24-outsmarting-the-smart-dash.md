@@ -12,7 +12,7 @@ In other words, I don't need OS X to be "smart" enough to make these symbols. I 
 
 Before OS X Mavericks, you could explicitly turn off smart dashes in System Preferences. Beginning with Mavericks, however, dashes *and quotes* were forced to share a common check box.
 
-![](img/keyboard-pref-pe.png)
+![](/img/keyboard-pref-pe.png)
 
 I don't really mind curly quotes showing up in places because even if I'm writing something for a LaTeX file outside of a `.tex` environment (e.g. in an app like [Ulysses](http://www.ulyssesapp.com)), I will normally [run everything through Pandoc](http://www.practicallyefficient.com/2016/03/15/markdown-pandoc-latex.html) to generate proper LaTeX code. Pandoc is pretty good with translating quotation marks of all kinds into proper LaTeX syntax:
 
