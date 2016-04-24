@@ -26,5 +26,5 @@ All that to say, it's unfortunate that you can't separately turn on/off smart da
 
 This command turns off smart dashes, allowing you to preserve `--`, etc. in any document, but it allows smart quotes to continue functioning. Interestingly, System Preferences will show the smart dashes and smart quotes box *unchecked* after this change even though smart quotes still work.
 
-For more on dash usage, see [The Punctation Guide](http://www.thepunctuationguide.com/em-dash.html). 
+For more on dash usage, see [The Punctuation Guide](http://www.thepunctuationguide.com/em-dash.html). 
 
