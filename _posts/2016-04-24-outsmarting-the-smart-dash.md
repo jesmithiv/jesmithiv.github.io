@@ -14,7 +14,11 @@ Before OS X Mavericks, you could explicitly turn off smart dashes in System Pref
 
 ![](img/keyboard-pref-pe.png)
 
-I don't really mind curly quotes showing up in places because even if I'm writing something for a LaTeX file outside of a `.tex` environment (e.g. in an app like [Ulysses](http://www.ulyssesapp.com)), I will normally [run everything through Pandoc](http://www.practicallyefficient.com/2016/03/15/markdown-pandoc-latex.html) to generate proper LaTeX code. Pandoc is pretty good with translating quotation marks of all kinds into proper LaTeX syntax (```quoted text''`). It's not so good, incidentally, with en dashes, which are more ambiguous in meaning—some people use them in place of a subtraction symbol, while others use them in contexts where em dashes are more appropriate.
+I don't really mind curly quotes showing up in places because even if I'm writing something for a LaTeX file outside of a `.tex` environment (e.g. in an app like [Ulysses](http://www.ulyssesapp.com)), I will normally [run everything through Pandoc](http://www.practicallyefficient.com/2016/03/15/markdown-pandoc-latex.html) to generate proper LaTeX code. Pandoc is pretty good with translating quotation marks of all kinds into proper LaTeX syntax:
+
+    ``quoted text''
+
+It's not so good, incidentally, with en dashes, which are more ambiguous in meaning—some people use them in place of a subtraction symbol, while others use them in contexts where em dashes are more appropriate.
 
 All that to say, it's unfortunate that you can't separately turn on/off smart dashes and quotes in System Preferences. Fortunately, though, you [still can through Terminal](http://superuser.com/questions/555628/how-to-stop-mac-to-convert-typing-double-dash-to-emdash) with:
 
