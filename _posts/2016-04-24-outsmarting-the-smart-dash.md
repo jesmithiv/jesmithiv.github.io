@@ -24,7 +24,7 @@ All that to say, it's unfortunate that you can't separately turn on/off smart da
 
 	defaults write 'Apple Global Domain' NSAutomaticDashSubstitutionEnabled 0
 
-This command turns off smart dashes, allowing you to preserve `--`, etc. in any document, but it allows smart quotes to continue functioning. Interestedly, System Preferences will show the smart dashes and smart quotes box *unchecked* after this change even though smart quotes still work.
+This command turns off smart dashes, allowing you to preserve `--`, etc. in any document, but it allows smart quotes to continue functioning. Interestingly, System Preferences will show the smart dashes and smart quotes box *unchecked* after this change even though smart quotes still work.
 
 For more on dash usage, see [The Punctation Guide](http://www.thepunctuationguide.com/em-dash.html). 
 
