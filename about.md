@@ -18,7 +18,7 @@ The best way to follow Practically Efficient is by subscribing to the [RSS feed]
 
 [t2]: https://twitter.com/PractEff
 
-[md]: http://www.practicallyefficient.com/markdown
+[md]: http://macsparky.com/markdown/
 
 [mw]: http://www.macworld.com/article/1166898/the_experts_guide_to_instapaper.html
 
