@@ -3,7 +3,7 @@ layout: post
 title: App review resolution
 ---
 
-Two (very close) to universal truths:
+Two (very close to) universal truths:
 
 1. We all know the best way to support app developers is by rating and reviewing their apps in the App Store. 
 2. We all hate being bothered by in-app prompts to rate apps. 
