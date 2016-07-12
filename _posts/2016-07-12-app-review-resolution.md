@@ -15,3 +15,5 @@ And that's the key: *I'm more likely to rate an app when I'm not trying to get s
 I'm planning to try an experiment. I'm setting a weekly reminder to review an app—*any* app that I use all the time but haven't yet reviewed. It doesn't have to be a dissertation—just a (mostly) five-star rating and a couple of lines. 
 
 It seems like a small service cost to pay for great app development and frees me to continue canceling out of any rating prompts I get while using apps. 
+
+It would be cool if there was an "app review day," too: a day for just saying thanks to your favorite app developers. 
