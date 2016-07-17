@@ -11,5 +11,4 @@ Just in case you were wondering if post-tragedy Twitter dog piles were having an
 
 Bigger picture, I would say that shame is the single biggest threat to national security and civil liberties that we face today. 
 
-[1]: 
-http://amzn.to/2akBft7
+[1]: http://amzn.to/2akBft7
