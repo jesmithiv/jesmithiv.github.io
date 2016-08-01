@@ -17,7 +17,7 @@ This creates two major barriers:
 
 2. Teaching generalizations is more like giving a fish than teaching how to fish. It encourages memorization, [not individual discovery][bad]. 
 
-The approach I've adopted after years of processing overly formal notation is to rewrite for my students in plain English—or in practical examples whenever possible. Much like a well-designed graph, a formulaic concept is well represented when its audience knows what it means after rereading it as little as possible. 
+The approach I've adopted after years of processing overly formal notation is to rewrite it for my students in plain English—or in practical examples whenever possible. Much like a well-designed graph, a formulaic concept is well represented when its audience knows what it means after rereading it as little as possible. 
 
 [1]: http://blackhole12.blogspot.com/2016/07/mathematical-notation-is-awful.html?m=1
 
