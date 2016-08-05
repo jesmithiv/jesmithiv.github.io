@@ -95,6 +95,8 @@ DTPO is also very inbox-centric. Every DTPO database has an inbox, and DTPO even
 
 When the new [DEVONthink for iOS][dtg] comes out later this year, DEVONthink will really be the undisputed winner in the all-purpose information storage category. 
 
+8/5/2016 Update: [DEVONthink To Go 2][d] is now in the App Store.
+
 The more I use DTPO, the more I *really* use it. I can even integrate the plain text notes I described earlier into DEVONthink by simply indexing the folder where I store my plain text notes, and it even recognizes OS X file colors / tags. It is the ideal companion to the already powerful file system that ships with every Mac.
 
 
@@ -109,6 +111,7 @@ As of iOS 10, Apple Notes has become even stronger with the ability to share not
 
 My information systems will always be in a state of flux, but I feel like I've become much more aware of key patterns in how I save and use information. I also want to prioritize creativity in the design of my information systems and minimize "data hoarding" just because an app makes it easy. I want to be more of a filter on both incoming information and information I've already stored—emulating a paper filing system using digital tools. In doing this, I hope to discover even more patterns, connections, and [aesthetics][aes]. 
 
+[d]: http://www.devontechnologies.com/products/devonthink/devonthink-to-go.html
   
 [aes]: http://www.practicallyefficient.com/2016/07/13/the-role-of-aesthetics-in-information-systems.html
 
