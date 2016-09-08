@@ -12,6 +12,7 @@ title: Pros and cons of the wireless future
 * Pros
     * No battery life issue
     * Nothing additional to charge
+    * Cheap (they're in every drawer of your home by now)
     
     
 ## The wireless AirPod future
