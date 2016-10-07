@@ -7,7 +7,7 @@ I've been a fan of Christian Tietze for a while. He was one of the original peop
 
 Christian's latest contribution to the world of plain text writing is [TableFlip][tf], a wonderful Mac app that solves a problem that's as old as HTML: making tables for the web sucks.
 
-Even though Fletcher Penney's [MultiMarkdown][mmd] made creating tables in Markdown kind of way possible—and significantly easier than hand-coding HTML tables—creating a table in plain text is still a visually challenging task. For very small tables (e.g. 2x2), it's fairly straightforward. But for larger tables, the column alignment becomes cumbersome. 
+Even though Fletcher Penney's [MultiMarkdown][mmd] made creating tables in a Markdown-kind-of-way possible—and significantly easier than hand-coding HTML tables—creating a table in plain text is still a visually challenging task. For very small tables (e.g. 2x2), it's fairly straightforward. But for larger tables, the column alignment becomes cumbersome. 
 
 Before TableFlip, I usually created MultiMarkdown tables with a [spreadsheet workflow][ss]. This worked well, but required a lot of ad hoc spreadsheet formula writing and also meant I had to store spreadsheet files indefinitely for any tables that I might want to edit later.
 
