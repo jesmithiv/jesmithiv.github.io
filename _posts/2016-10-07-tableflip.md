@@ -11,7 +11,7 @@ Even though Fletcher Penney's [MultiMarkdown][mmd] made creating tables in a Mar
 
 Before TableFlip, I usually created MultiMarkdown tables with a [spreadsheet workflow][ss]. This worked well, but required a lot of ad hoc spreadsheet formula writing and also meant I had to store spreadsheet files indefinitely for any tables that I might want to edit later.
 
-**TableFlip is the best of the plain text and spreadsheet-like world in one.** it provides an intuitive spreadsheet-like tabular interface, which makes creating tables from scratch really easy.
+**TableFlip is the best of the plain text and spreadsheet-like world in one.** It provides an intuitive spreadsheet-like tabular interface, which makes creating tables from scratch really easy.
 
 ![](/img/tableflip-pe.png "TableFlip")
 
