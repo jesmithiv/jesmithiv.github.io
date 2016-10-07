@@ -158,20 +158,23 @@ pre {
     }
 }
 
-table.center {
-   margin-left:auto; 
-   margin-right:auto;
- }
+table {
+    padding-bottom: 21px;
+    margin-bottom: 21px;
+    margin-left:auto; 
+    margin-right:auto;
+}
 
 table, td, th {
+    border-collapse:collapse;
     border: 1px solid #999999;
     font-size:19px;
-    padding: 6px;
+    padding-right: 10px;
+    padding-left: 10px;
 }
 
 th {
-    background-color: #999999;
-    color: white;
+    font-weight: bold;
 }
 
 
