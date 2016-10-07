@@ -6,46 +6,53 @@ redirect_from: /home/2010/08/09/my-spreadsheet-to-multimarkdown-table-workflow/i
 <p>If you’ve ever tried to make a table in a word processor or spreadsheet, then “save as HTML,” you know what a mess you get.
 Thanks to <a href="http://fletcherpenney.net/">Fletcher Penney</a>, however, we have <a href="http://www.practicallyefficient.com/tag/multimarkdown/">MultiMarkdown</a>, which makes creating HTML tables easy.</p>
 <p>I haven’t exiled the spreadsheet from my HTML table workflow, however.  I’ve just recast it in a new role and paired it with  MultiMarkdown.  I’ll show you how too, but first, just for a little perspective (if drama), let’s look at just what a mess you get when you use Excel or Word the conventional way.</p>
-<p><!--more-->I wanted to make this simple, innocuous-looking (but information-rich) 6x3 table:</p>
+<p>I wanted to make this simple, innocuous-looking (but information-rich) 6x3 table:</p>
+
 <table>
-<col align="left"></col>
-<col align="right"></col>
-<col align="right"></col>
+<colgroup>
+<col style="text-align:left;"/>
+<col style="text-align:right;"/>
+<col style="text-align:right;"/>
+</colgroup>
+
 <thead>
 <tr>
-<th>Animal</th>
-<th>Legs</th>
-<th>Lives</th>
+    <th style="text-align:left;">Animal</th>
+    <th style="text-align:right;">Legs</th>
+    <th style="text-align:right;">Lives</th>
 </tr>
 </thead>
+
 <tbody>
 <tr>
-<td align="left">Dog</td>
-<td align="right">4</td>
-<td align="right">1</td>
+    <td style="text-align:left;">Dog</td>
+    <td style="text-align:right;">4</td>
+    <td style="text-align:right;">1</td>
 </tr>
 <tr>
-<td align="left">Cat</td>
-<td align="right">4</td>
-<td align="right">9</td>
+    <td style="text-align:left;">Cat</td>
+    <td style="text-align:right;">4</td>
+    <td style="text-align:right;">9</td>
 </tr>
 <tr>
-<td align="left">Monkey</td>
-<td align="right">2</td>
-<td align="right">1</td>
+    <td style="text-align:left;">Monkey</td>
+    <td style="text-align:right;">2</td>
+    <td style="text-align:right;">1</td>
 </tr>
 <tr>
-<td align="left">Kangaroo</td>
-<td align="right">2</td>
-<td align="right">1</td>
+    <td style="text-align:left;">Kangaroo</td>
+    <td style="text-align:right;">2</td>
+    <td style="text-align:right;">1</td>
 </tr>
 <tr>
-<td align="left">Total</td>
-<td align="right">12</td>
-<td align="right">12</td>
+    <td style="text-align:left;">Total</td>
+    <td style="text-align:right;">12</td>
+    <td style="text-align:right;">12</td>
 </tr>
 </tbody>
 </table>
+
+
 <p>Trying Excel first,  I entered the words and numbers in plain text – no formatting at all – then I saved it as an HTML file.  Excel generated a file with 336 lines of code. Word vomited out a whopping 599 lines of HTML.</p>
 <p>Bleck.</p>
 <p>Even if you copied this bloat into your blog or website, it likely wouldn’t render as expected.  There’s just too much junk in it. It’s not usable.</p>
@@ -86,45 +93,51 @@ Monkey|2|1
 Kangaroo|2|1
 Total|12|12</code></pre>
 <p>That doesn’t look very pretty in plain text, but when you convert your text file to HTML, it’ll look just fine – or however your CSS tells it to look on your site.</p>
+
 <table>
-<col align="left"></col>
-<col align="right"></col>
-<col align="right"></col>
+<colgroup>
+<col style="text-align:left;"/>
+<col style="text-align:right;"/>
+<col style="text-align:right;"/>
+</colgroup>
+
 <thead>
 <tr>
-<th>Animal</th>
-<th>Legs</th>
-<th>Lives</th>
+    <th style="text-align:left;">Animal</th>
+    <th style="text-align:right;">Legs</th>
+    <th style="text-align:right;">Lives</th>
 </tr>
 </thead>
+
 <tbody>
 <tr>
-<td align="left">Dog</td>
-<td align="right">4</td>
-<td align="right">1</td>
+    <td style="text-align:left;">Dog</td>
+    <td style="text-align:right;">4</td>
+    <td style="text-align:right;">1</td>
 </tr>
 <tr>
-<td align="left">Cat</td>
-<td align="right">4</td>
-<td align="right">9</td>
+    <td style="text-align:left;">Cat</td>
+    <td style="text-align:right;">4</td>
+    <td style="text-align:right;">9</td>
 </tr>
 <tr>
-<td align="left">Monkey</td>
-<td align="right">2</td>
-<td align="right">1</td>
+    <td style="text-align:left;">Monkey</td>
+    <td style="text-align:right;">2</td>
+    <td style="text-align:right;">1</td>
 </tr>
 <tr>
-<td align="left">Kangaroo</td>
-<td align="right">2</td>
-<td align="right">1</td>
+    <td style="text-align:left;">Kangaroo</td>
+    <td style="text-align:right;">2</td>
+    <td style="text-align:right;">1</td>
 </tr>
 <tr>
-<td align="left">Total</td>
-<td align="right">12</td>
-<td align="right">12</td>
+    <td style="text-align:left;">Total</td>
+    <td style="text-align:right;">12</td>
+    <td style="text-align:right;">12</td>
 </tr>
 </tbody>
 </table>
+
+
+
 <p id="yourturn">Oh, and by the way, this table only took up a mere 39 lines of HTML code using MultiMarkdown. That's less than 12% of Excel and less than 7% of Microsoft Word.</p>
-<h2>Your turn</h2>
-<p>Share your own HTML table workflows.</p>
