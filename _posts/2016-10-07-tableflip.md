@@ -5,7 +5,7 @@ title: Tables are hard unless you own TableFlip
 
 I've been a fan of Christian Tietze for a while. He was one of the original people to fork Notational Velocity in a more Markdown-centric direction—a [burst of evolution in 2010][ev] that later culminated in Brett Terpstra and David Halter's nvALT.
 
-Christian's latest contribution to the world of plain text writing is [TableFlip][tf], a wonderful Mac app that solves a problem that's as old as HTML: making tables for the web sucks still sucks.
+Christian's latest contribution to the world of plain text writing is [TableFlip][tf], a wonderful Mac app that solves a problem that's as old as HTML: making tables for the web sucks.
 
 Even though Fletcher Penney's [MultiMarkdown][mmd] made creating tables in Markdown kind of way possible—and significantly easier than hand-coding HTML tables—creating a table in plain text is still a visually challenging task. For very small tables (e.g. 2x2), it's fairly straightforward. But for larger tables, the column alignment becomes cumbersome. 
 
