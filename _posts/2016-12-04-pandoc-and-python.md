@@ -5,7 +5,7 @@ title: Pandoc and Python
 
 I’ve [talked before](http://www.practicallyefficient.com/2016/03/15/markdown-pandoc-latex.html) about using Pandoc to convert Markdown to LaTeX. I’ve been using it a lot this year, and it’s been great to write more in Markdown and code less in LaTeX. Pandoc does a really nice job converting Markdown and even characters like `$`, `%`, `—`, etc. into the correct LaTeX syntax (`\$`, `\%`, `---`, etc.). It also leaves alone any chunks of LaTeX I intersperse in my Markdown files (e.g. equations) so that they’re still there in the final LaTeX output—married with the LaTeX created from Markdown.
 
-So that’s all the good. For me, the *bad* of Pandoc is that I don’t think the LaTeX code it generates is very nice to look at. It typesets just fine, but Pandoc inserts extra line breaks by default and does funny things with `itemize` and `enumerate` environmentss that make reading the LaTeX code later difficult—especially annoying when I need to go back into the LaTeX to edit/add things in the future.
+So that’s all the good. For me, the *bad* of Pandoc is that I don’t think the LaTeX code it generates is very nice to look at. It typesets just fine, but Pandoc inserts extra line breaks by default and does funny things with `itemize` and `enumerate` environments that make reading the LaTeX code later difficult—especially annoying when I need to go back into the LaTeX to edit/add things in the future.
 
 Fortunately I’ve been able to address these shortcomings by learning more about Pandoc’s options and bringing Python into the mix.
 
