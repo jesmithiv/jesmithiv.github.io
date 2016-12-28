@@ -4,7 +4,7 @@ title: "Things I got better at in 2016: Part 1 – Technology"
 date: 2016-12-28 12:00:00
 ---
 
-*This is a miscellaneous list of things I feel like I got better at in 2016 and hope to build on even more next year. Also see [part 2](http://127.0.0.1:4000/2016/12/28/2016-betterment-part-2.html) on time and project management.*
+*This is a miscellaneous list of things I feel like I got better at in 2016 and hope to build on even more next year. Also see [part 2](/2016/12/28/2016-betterment-part-2.html) on time and project management.*
 
 ## Regulator expressions
 
