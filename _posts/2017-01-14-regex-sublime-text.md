@@ -3,9 +3,9 @@ layout: post
 title: Regular expressions and Sublime Text
 ---
 
-Regular expressions seem very difficult to learn at first, but once you get the hang of them, they are powerful tools. I'm using them more and more in Python scripts and also find/replace workflows in Sublime Text.
+Regular expressions seem very difficult to learn at first, but once you get the hang of them, they are powerful tools. I'm using them more and more in Python scripts and also find/replace workflows in [Sublime Text](https://www.sublimetext.com).
 
-Since I have several regular expressions that I use over and over (and over) again, I decided to store them in TextExpander for quick reference. I prefix each snippet with `rx`, which lets me use the TextExpander global shortcut to bring up a TextExpander search box anywhere in macOS so I can just grab the one I need.
+Since I have several regular expressions that I use over and over (and over) again, I decided to store them in [TextExpander](https://smilesoftware.com/textexpander) for quick reference. I prefix each snippet with `rx`, which lets me use the TextExpander global shortcut to bring up a TextExpander search box anywhere in macOS so I can just grab the one I need.
 
 ![](/img/rx-te-pe.png "TextExpander and Regular Expressions")
 
