@@ -9,4 +9,4 @@ David Heinemeier Hansson [going off][1] on monetization schemes:
 
 Consume or be consumed. 
 
-[1]: David Heinemeier Hanssonhttps://m.signalvnoise.com/the-price-of-monetizing-schemes-454141dab027?source=rss----668e14b18fb1---4
+[1]: https://m.signalvnoise.com/the-price-of-monetizing-schemes-454141dab027?source=rss----668e14b18fb1---4
