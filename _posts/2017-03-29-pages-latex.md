@@ -13,6 +13,6 @@ As an added bonus, even though Keynote does not have the same direct LaTeX suppo
 
 ![](/img/pages-keynote-latex-2.gif "Pasting an Equation in Keynote")
 
-In a nutshell, this means you can also add quickly add equations to Keynote via Pages on the fly.
+In a nutshell, this means you can also quickly add equations to Keynote via Pages on the fly.
 
 [1]: https://www.macstories.net/news/apple-releases-iwork-31-with-touch-id-support-greater-customization-options-and-more/
