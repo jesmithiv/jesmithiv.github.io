@@ -42,7 +42,7 @@ The adjacent possibilities unlocked by the confluence of the iPhone's camera and
 - Snapchat, or more generally, the concept of photo messaging
 - Augmented reality 
 
-There are so many examples other of things iOS has automated that we never even thought *needed* automating. Just look at your home screen. The iPhone is essentially a universal remote for modern life. 
+There are so many examples of other things iOS has automated that we never even thought *needed* automating. Just look at your home screen. The iPhone is essentially a universal remote for modern life. 
 
 Traditional computer automation (scripting, better inter-app communication, etc.) is a pretty narrow frontier of iOS automation yet to be fully solved. I'm not convinced that it even needs to be solved as long as we have traditional computers with open file systems. But I believe it will either be solved, or the *need* for solving it will be obviated by other advances in iOS. 
 
