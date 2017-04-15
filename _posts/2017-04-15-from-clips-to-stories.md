@@ -7,7 +7,7 @@ Renie Ritchie apparently wrote a [treatise](http://m.imore.com/clips) on Apple's
 
 The real brilliance of Clips is that you don't even feel like you're doing movie editing, but that's *exactly* what you're doing. Being able to shoot video is just one step of making a visual story. A movie obviously can't exist without that step. But in my opinion, editing is way more important. Cutting, blending, and curating is what really makes something a story.  
 
-I think the "cutting" step is what most iPhone-created movies need the most. I went a long way in solving this problem (accidentally) when I started using Snapchat about a year ago. Before Snapchat, I shot plenty video with the iPhone, but I almost never did anything with it. The main problem was that my videos tended to be too long. This made them:
+I think the "cutting" step is what most iPhone-created movies need the most. I went a long way in solving this problem (accidentally) when I started using Snapchat about a year ago. Before Snapchat, I shot plenty of video with the iPhone, but I almost never did anything with it. The main problem was that my videos tended to be too long. This made them:
 
 1. Usually boring 
 2. Longer than most people wanted to watch 
