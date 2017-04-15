@@ -3,9 +3,9 @@ layout: post
 title: From clips to stories
 ---
 
-Renie Ritchie apparently wrote a [treatise](http://m.imore.com/clips) on Apple's new Clips app, but don't let that intimidate you. Clips is ridiculously easy to use, and most of its features are discoverable by just playing with it. 
+Renie Ritchie apparently wrote a [treatise](http://m.imore.com/clips) on Apple's new [Clips](https://itunes.apple.com/us/app/clips/id1212699939?mt=8) app, but don't let that intimidate you. Clips is ridiculously easy to use, and most of its features are discoverable by just playing with it. 
 
-The real brilliance behind Clips is that you don't even feel like you're doing movie editing, but that's *exactly* what you're doing. Being able to shoot video is just one step of making a visual story. A movie obviously can't exist without that step. But in my opinion, editing is way more important. Cutting, blending, and curating is what really makes something a story.  
+The real brilliance of Clips is that you don't even feel like you're doing movie editing, but that's *exactly* what you're doing. Being able to shoot video is just one step of making a visual story. A movie obviously can't exist without that step. But in my opinion, editing is way more important. Cutting, blending, and curating is what really makes something a story.  
 
 I think the "cutting" step is what most iPhone-created movies need the most. I went a long way in solving this problem (accidentally) when I started using Snapchat about a year ago. Before Snapchat, I shot plenty video with the iPhone, but I almost never did anything with it. The main problem was that my videos tended to be too long. This made them:
 
@@ -21,8 +21,7 @@ Now that Clips is here, I'm using the iPhone's camera app for video more often, 
 
 **It's really the story you should be after.**
 
-If you pay attention to almost any TV show, movie, or professionally-made internet video, the very longest shots last no more than than five to eight seconds. In action movies, shot length can average [as little as two seconds!](http://vashivisuals.com/category/one-sheets/average-shot-length-one-sheets/) Some action movies have over 3000 shots in them. Changing scenes and angles just makes the visual aspect more engaging.
+If you pay attention to almost any TV show, movie, or professionally-made internet video, the very longest shots last no more than than five to eight seconds. In action movies, shot length can average [as little as two seconds!](http://vashivisuals.com/category/one-sheets/average-shot-length-one-sheets/) Some action movies have over 3,000 shots in them. Changing scenes and angles just makes the visual aspect more engaging.
 
-I used Clips to make a couple of short "movies," each consisting of 5–10 short videos and photos I took last week on a family vacation. In a lot of cases, I only grabbed a few of the best seconds of each clip. Creating each "movie" took just minutes using only my iPhone. I'm 100% sure none of those individual videos would have gotten shared if I hadn't used Clips to pull them together into more of a "story."
-
+I used Clips to make a couple of short "movies," each consisting of 5–10 short videos and photos I took last week on a family vacation. In a lot of cases, I only grabbed a few of the best seconds of each clip. Creating each "movie" took just minutes using only my iPhone. I'm 100% sure none of those individual videos would have gotten shared if I hadn't used Clips to make them into a story.
   
