@@ -10,7 +10,7 @@ redirect_from: /home/2011/05/16/financial-entropy/index.html
 <p>In other words: goals vs. overhead. More generally: good vs. evil.</p>
 <p>My OmniFocus 'Financial' folder is made up of a single action list called ‘Bills’ as well as goal-oriented projects. It’s an important difference to me.</p>
 <h2 id="billmanagement">Bill management</h2>
-<p>Most of the actions on my 'Bills' list recur monthly and are grouped by “first half” and “second half” of the month (<a href="http://www.practicallyefficient.com/2010/08/27/note-to-self-bundles-are-beautiful/">task bundling</a>). I also have quarterly and annually recurring bills scheduled here. One-off bill payments land on this list, too.<a id="fnref:f2" class="footnote" title="see footnote" href="#fn:f2">1</a></p>
+<p>Most of the actions on my 'Bills' list recur monthly and are grouped by “first half” and “second half” of the month (<a href="http://www.practicallyefficient.com/2010/08/27/note-to-self-bundles-are-beautiful.html">task bundling</a>). I also have quarterly and annually recurring bills scheduled here. One-off bill payments land on this list, too.<a id="fnref:f2" class="footnote" title="see footnote" href="#fn:f2">1</a></p>
 <p>Recurring overhead represents an opportunity for increased efficiency. Keep it minimal to the extent you can, and definitely keep it separate from more goal-oriented stuff.</p>
 <h2 id="usingomnifocustomovetowardfinancialgoals">Using OmniFocus to move toward financial goals</h2>
 <p>I’ve said this before I know, but I really like making OmniFocus projects goal-oriented. Hell, I even said that already in this post, didn’t I? (So much for limiting recurrence.)</p>
