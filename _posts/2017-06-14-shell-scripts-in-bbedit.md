@@ -15,7 +15,7 @@ Creating the shell commands is straightforward, especially in Sublime Text. Afte
 
 ![](/img/sublime-text-multiple-cursor-shell-commands.gif "Sublime Text")
 
-Since Sublime Text won't execute these commands in an unsaved file that hasn't been given proper execute permissions, I simply copy this text into an untitled, unsaved BBEdit window and hit `⌘R`.
+Since Sublime Text won't execute these commands in an unsaved file that hasn't been given proper execute permissions, I simply copy this text into an untitled, unsaved BBEdit window and hit `⌘R`. BBEdit has the extremely useful ability to immediately recognize the syntax and execute it right there on the spot.
 
 ![bbedit-bash-pe.png](/img/bbedit-bash-pe.png "BBEdit")
 
