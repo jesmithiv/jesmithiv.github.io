@@ -17,5 +17,7 @@ Creating the shell commands is straightforward, especially in Sublime Text. Afte
 
 Since Sublime Text won't execute these commands in an unsaved file that hasn't been given proper execute permissions, I simply copy this text into an untitled, unsaved BBEdit window and hit `⌘R`.
 
+![bbedit-bash-pe.png](/img/bbedit-bash-pe.png "BBEdit")
+
 I realize this post is a weird way to promote BBEdit, which is a powerful text editor that, in this case, I'm not even using as an editor. Hopefully I'll find some time to talk more about other ways I'm using it with Sublime Text. 
 
