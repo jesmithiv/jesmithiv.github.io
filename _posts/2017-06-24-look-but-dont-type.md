@@ -15,4 +15,4 @@ If I want to escape those confines, which is a frequent want, I use my 13" MacBo
 
 Like Gabe, I also find myself in the funny position of using my iPhone to type more, even when my iPad is at hand. A great example: if I'm reading a book on my iPad, it's actually easier to write notes about the book using my iPhone. I even wrote this entire post in Drafts on my iPhone at the breakfast table. My iPad is in sight across the kitchen.
 
-I still use the iPad a lot, but it's use cases for typing still remain very limited for me. The Mac and iPhone just have superior keyboard forms. 
+I still use the iPad a lot, but its use cases for typing still remain very limited for me. The Mac and iPhone just have superior keyboard forms. 
