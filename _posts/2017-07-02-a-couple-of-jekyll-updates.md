@@ -21,7 +21,7 @@ This takes advantage of the fact that you can create CSS for combinations of HTM
 
 to target the `*image_caption*` text only and center it under images, which are also centered on this site by default. It works perfectly, and this isn't even Jekyll-specific. Anyone publishing in Markdown could do this. 
 
-![](#)(/img/einstein-simple.jpg "Einstein")
+![](/img/einstein-simple.jpg "Einstein")
 *Agreed.*
 
 
