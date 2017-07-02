@@ -14,6 +14,7 @@ The main friction with bash scripting for folks like me that don't live in Termi
 Creating the shell commands is straightforward, especially in Sublime Text. After adding the necessary `#!/bin/bash` line with TextExpander and defining the "to" and "from" file paths as variables, the magic of Sublime Text's multiple cursors makes it easy to put `cp` commands and the folder path variables around each file to be copied.
 
 ![](/img/sublime-text-multiple-cursor-shell-commands.gif "Sublime Text")
+*Sublime Text multiple cursors in action*
 
 Since Sublime Text won't execute these commands in an unsaved file that hasn't been given proper execute permissions, I simply copy this text into an untitled, unsaved BBEdit window and hit `⌘R`. BBEdit has the extremely useful ability to immediately recognize the syntax and execute it right there on the spot.
 

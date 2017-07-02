@@ -55,7 +55,16 @@ img {
     padding-top: $spacing-unit / 2;
 }
 
+/**
+ * Image captions
+ */
 
+img + em {
+    display: block;
+    text-align: center;
+    font-size: $small-font-size;
+    color: $grey-color;
+}
 
 /**
  * Figures
@@ -137,7 +146,7 @@ iframe {
  */
 pre,
 code {
-    font-size: 15px;
+    font-size: 18px;
     border: 1px solid $grey-color-light;
     border-radius: 3px;
     background-color: #eef;
