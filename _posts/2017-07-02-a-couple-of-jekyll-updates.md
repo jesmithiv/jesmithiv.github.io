@@ -35,10 +35,12 @@ The elegance of this solution is that the MathJax script will only be written in
 
 I ended up adding
 
+{% raw %}
 	{% if page.mathjax %}
 	<script type="text/javascript" async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-MML-AM_CHTML">
 	</script>
 	{% endif %}
+{% endraw %}
 
 to my `head.html` file, which contains Ruby instructions for building the contents of each page's `<head>` element. For any page where the YAML front matter has `mathjax: true`, the MathJax script will be included. I decided to always include it in the site's `index.html` file, which shows recent posts. And going forward, I can simply include it in the YAML front matter of any individual post. For example, this post's front matter is:
 
