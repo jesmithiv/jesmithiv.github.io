@@ -17,5 +17,5 @@ We've already seen that mixing humans and advanced technology can have undesirab
 
 The "good news" with failures of financial abstraction is that they can, apparently, be corrected by offsetting measures of abstraction like the creation of additional (abstract) money. Complicated financial structures also collapse when they are no longer believed in—like bad dreams.  
 
-AI is different in that it could very well evolved into, and surpass, peers of DNA-based organisms. AI, once fully viable, may not collapse so easily, if at all. 
+AI is different in that it could very well evolve into something that surpasses DNA-based organisms. AI, once fully viable, may not collapse so easily, if at all. 
 
