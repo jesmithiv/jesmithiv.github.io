@@ -9,7 +9,7 @@ Via [Hobo Signs](http://hobosigns.macdrifter.com/2017/07/29/researchers-shut-dow
 > 
 > The observations made at Facebook are the latest in a long line of similar cases. In each instance, an AI being monitored by humans has diverged from its training in English to develop its own language. The resulting phrases appear to be nonsensical gibberish to humans but contain semantic meaning when interpreted by AI "agents."
 
-Our ability to think about abstract things makes us very different from other animals. It's why we have big heads, big philosophies, big religions, and, may times, big problems with absolutely no basis in the physical world. 
+Our ability to think about abstract things makes us very different from other animals. It's why we have big heads, big philosophies, big religions, and, many times, big problems with absolutely no basis in the physical world. 
 
 We're in the middle of a really fascinating experiment in civilization that started around the time of Industrial Revolution, but really got going in the second half of the 20th century when computers (machines) enabled our abstract thinking to affect the physical world by significantly higher orders of magnitude. 
 
