@@ -17,7 +17,7 @@ Will it work forever? Hell no. Software isn't the same as a cast iron skillet. S
 
 The more you can look at your software as a knowledge product—a product that rapidly decays without the *service* of its developers, the more subscription pricing makes sense *objectively*. 
 
-But that's the crux. Software needs human buyers, and our brains poorly evolved to evaluate many abstractions of our modern economy.
+But that's the crux. Software needs human buyers, and our brains are poorly evolved to evaluate the many abstractions of our modern economy.
 
 
 
