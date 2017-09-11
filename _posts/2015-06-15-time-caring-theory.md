@@ -19,12 +19,12 @@ redirect_from: /home/time-caring-theory/index.html
 
 <p>If people were perfectly rational beings who incorporated all available information, including their own past mistakes, to plan projects, I would expect the distribution of time spent on projects to look something like this:</p>
   
-<img src="/img/img.png" alt=""/>
+<img src="/img/proj-freq-wo-bias-pe.png" alt=""/>
   
 
 <p>In other words, there would be equal numbers of projects completed ahead of and behind schedule. The actual completion time would mostly be a function of external random events beyond the project planner's control. </p><p>I think that on some subconscious level, we imagine the future success of a project in terms of a symmetric normal curve. We believe our best estimate of the completion time is <em>really</em> good—even when past experience looks more like this:</p>
   
-<img src="/img/img.png" alt=""/>
+<img src="/img/proj-freq-w-bias-pe.png" alt=""/>
   
 
 <p>We don't really need any formal theory here. A little intuition is all it takes to see that the uncertainty of a project's completion time is a function of the number (and uncertainty) of all of the project's sub-projects.</p>
@@ -53,8 +53,8 @@ redirect_from: /home/time-caring-theory/index.html
 
 <p>No one can objectively argue against this caring principle. The catch: caring is entirely made of human emotion. At one extreme, caring is the arousal induced by productivity porn—you know it when you feel it, but you can't measure it. At least not like time. Caring is a very different substance than time, which in many ways is the antithesis of emotion. <em>But</em> both time and caring must be present to complete a project—any project.</p>
   
-<img src="/img/img.png" alt=""/>
-  
+<img src="/img/time-caring-pe.png" alt=""/>
+
 
 <p>In words:</p>
 
