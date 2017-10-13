@@ -56,10 +56,17 @@ img {
 }
 
 /**
- * Image captions
+ * Image and iframe captions
  */
 
 img + em {
+    display: block;
+    text-align: center;
+    font-size: $small-font-size;
+    color: $grey-color;
+}
+
+iframe + em {
     display: block;
     text-align: center;
     font-size: $small-font-size;
