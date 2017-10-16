@@ -303,7 +303,7 @@ Rather than trying to compress our workflows further, we need to factor the art 
 
 [^f2]: Knuth's philosophy that computer code should be as human-readable and as self-documenting as possible also lead him to develop [literate programming](https://en.m.wikipedia.org/wiki/Literate_programming), a pivotal contribution to computer programming that has impacted every mainstream programming language in use today.
 
-[^f3]: One noteworthy TeX predecessor (and arguably a peer) was `troff`, a system developed by AT&T Corporation for the Unix operating system in the mid-1960s ([Wikipedia](https://en.wikipedia.org/wiki/Troff)). The `troff` syntax for mathematics notation had some similarities with TeX, leading some to speculate that `troff` influenced Knuth in his development of TeX. We do know that Knuth was aware of `troff` enough to have an opinion of it—and not a good one. See p. 349 of [TUGBoat, Vol. 17 (1996), No. 4](http://tug.org/TUGboat/tb17-4/tb53knun.pdf) for more.
+[^f3]: One noteworthy TeX predecessor (and arguably a peer) was `troff`, a system developed by AT&T Corporation for the Unix operating system in the mid-1960s ([Wikipedia](https://en.wikipedia.org/wiki/Troff)). The `troff` syntax for mathematics notation had some similarities with TeX, leading some to speculate that `troff` influenced Knuth in his development of TeX. We do know that Knuth was aware of `troff` enough to have an opinion of it—and not a good one. See p. 349 of [TUGBoat, Vol. 17 (1996), No. 4](http://tug.org/TUGboat/tb17-4/tb53knun.pdf) for more. Thanks to Duncan Agnew for bringing `troff` to my attention.
 
 
 
