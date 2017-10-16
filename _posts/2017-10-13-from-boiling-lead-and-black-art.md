@@ -122,18 +122,6 @@ While Monotype's 4-line system would standardize mathematical typography more th
 
 
 
-
-
- 
-
- 
-
-
-
-
-
-
-
 ## The typewriter compromise
 
 The 20th century, particularly post-World War II, saw an explosion in scientific literature, not just in academia but in the public and private sector as well. Telecommunications booms and space races don't happen without a lot of math sharing.
@@ -192,7 +180,7 @@ By 1978, Knuth was ready to announce TeX ("tek"[^1]) to the world at the annual 
 
 > Mathematics books and journals do not look as beautiful as they used to. It is not that their mathematical content is unsatisfactory, rather that the old and well-developed traditions of typesetting have become too expensive. Fortunately, it now appears that mathematics itself can be used to solve this problem. ([AMS](http://www.ams.org/journals/bull/1979-01-02/S0273-0979-1979-14598-1/S0273-0979-1979-14598-1.pdf))
 
-The gravity of this assertion is difficult to appreciate today. It's not so much a testament to Knuth's brilliance as mathematician and computer scientist—there were certainly others in the 1970s with comparable math and computer skills. What makes Knuth's role in typographical history so special was just how much he cared about the *appearance* of typography in the 1970s—and the fact that he used his technical abilities to emulate the art he so appreciated from the Monotype era. 
+The gravity of this assertion is difficult to appreciate today. It's not so much a testament to Knuth's brilliance as mathematician and computer scientist—there were certainly others in the 1970s with comparable math and computer skills.[^f3] What makes Knuth's role in typographical history so special was just how much he cared about the *appearance* of typography in the 1970s—and the fact that he used his technical abilities to emulate the art he so appreciated from the Monotype era. 
 
 This was not a trivial math problem:
 
@@ -314,3 +302,8 @@ Rather than trying to compress our workflows further, we need to factor the art 
 [^1]: TeX is pronounced "tek" and is an English representation of the Greek letters &tau;&epsilon;&chi;, which is an abbreviation of τέχνη (or technē). Techne is a Greek concept that can mean either "art" or "craft," but usually in a the context of a practical application.
 
 [^f2]: Knuth's philosophy that computer code should be as human-readable and as self-documenting as possible also lead him to develop [literate programming](https://en.m.wikipedia.org/wiki/Literate_programming), a pivotal contribution to computer programming that has impacted every mainstream programming language in use today.
+
+[^f3]: One noteworthy TeX predecessor (and arguably a peer) was `troff`, a system developed by AT&T Corporation for the Unix operating system in the mid-1960s ([Wikipedia](https://en.wikipedia.org/wiki/Troff)). The `troff` syntax for mathematics notation had some similarities with TeX, leading some to speculate that `troff` influenced Knuth in his development of TeX. We do know that Knuth was aware of `troff` enough to have an opinion of it—and not a good one. See p. 349 of [TUGBoat, Vol. 17 (1996), No. 4](http://tug.org/TUGboat/tb17-4/tb53knun.pdf) for more.
+
+
+
